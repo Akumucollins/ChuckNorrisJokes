@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Akumucollins/ChuckNorrisJokes/static/css/main.be5edccc.chunk.css",
+    "main.js": "/Akumucollins/ChuckNorrisJokes/static/js/main.60c57322.chunk.js",
+    "main.js.map": "/Akumucollins/ChuckNorrisJokes/static/js/main.60c57322.chunk.js.map",
+    "runtime-main.js": "/Akumucollins/ChuckNorrisJokes/static/js/runtime-main.f84abfb2.js",
+    "runtime-main.js.map": "/Akumucollins/ChuckNorrisJokes/static/js/runtime-main.f84abfb2.js.map",
+    "static/js/2.7845f303.chunk.js": "/Akumucollins/ChuckNorrisJokes/static/js/2.7845f303.chunk.js",
+    "static/js/2.7845f303.chunk.js.map": "/Akumucollins/ChuckNorrisJokes/static/js/2.7845f303.chunk.js.map",
+    "static/js/3.69fd4103.chunk.js": "/Akumucollins/ChuckNorrisJokes/static/js/3.69fd4103.chunk.js",
+    "static/js/3.69fd4103.chunk.js.map": "/Akumucollins/ChuckNorrisJokes/static/js/3.69fd4103.chunk.js.map",
+    "index.html": "/Akumucollins/ChuckNorrisJokes/index.html",
+    "static/css/main.be5edccc.chunk.css.map": "/Akumucollins/ChuckNorrisJokes/static/css/main.be5edccc.chunk.css.map",
+    "static/js/2.7845f303.chunk.js.LICENSE.txt": "/Akumucollins/ChuckNorrisJokes/static/js/2.7845f303.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f84abfb2.js",
+    "static/js/2.7845f303.chunk.js",
+    "static/css/main.be5edccc.chunk.css",
+    "static/js/main.60c57322.chunk.js"
+  ]
+}
